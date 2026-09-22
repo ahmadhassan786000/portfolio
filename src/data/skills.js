@@ -1,7 +1,7 @@
 export const skillGroups = [
   {
     title: 'Frontend',
-    items: ['HTML5', 'CSS3', 'JavaScript (ES6+)', 'React.js', 'Tailwind CSS'],
+    items: ['HTML5', 'CSS3', 'JavaScript (ES6+)', 'React.js', 'Tailwind CSS', 'PHP/Larvel'],
   },
   {
     title: 'Backend',
